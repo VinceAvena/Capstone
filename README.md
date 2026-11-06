@@ -3,6 +3,10 @@
 Built exactly as described in the capstone paper: **Laravel (PHP) + Blade + HTML/CSS/JavaScript + SQLite**, using the **MVC** pattern.
 Everything is plain code you can read in Visual Studio Code. There is no build step and no `npm` needed.
 
+## Group Members
+VINCE ERNEST H. AVENA
+KYLE CHRISTIAN R. RICAMORA 
+
 ---------------------------------------------------------------------------
 
 ## 1. What you need installed (Windows 10)
