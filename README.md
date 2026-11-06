@@ -4,8 +4,8 @@ Built exactly as described in the capstone paper: **Laravel (PHP) + Blade + HTML
 Everything is plain code you can read in Visual Studio Code. There is no build step and no `npm` needed.
 
 ## Group Members
-VINCE ERNEST H. AVENA <br>
-KYLE CHRISTIAN R. RICAMORA 
+- VINCE ERNEST H. AVENA <br>
+- KYLE CHRISTIAN R. RICAMORA 
 
 ---------------------------------------------------------------------------
 
