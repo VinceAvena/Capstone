@@ -7,6 +7,9 @@ Everything is plain code you can read in Visual Studio Code. There is no build s
 - VINCE ERNEST H. AVENA <br>
 - KYLE CHRISTIAN R. RICAMORA 
 
+## Core Features
+- Overpricing complaint submission and verification. A shopper selects a stall and commodity, enters the price they paid, and uploads a photo as evidence. The complaint is saved as Reported. The market administrator sees the complaint beside the stall's posted price and photo, then marks it as Confirmed or Dismissed.
+
 ---------------------------------------------------------------------------
 
 ## 1. What you need installed (Windows 10)
